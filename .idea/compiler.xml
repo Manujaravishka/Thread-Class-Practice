@@ -9,6 +9,7 @@
         <module name="05-Join-IsAlive" />
         <module name="04-Lambda-Expression" />
         <module name="02-Extend-Thread-Class" />
+        <module name="06-Thread-Priority" />
         <module name="01_Introduction" />
       </profile>
     </annotationProcessing>
